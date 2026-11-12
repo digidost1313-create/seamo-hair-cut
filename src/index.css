@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { color-scheme: dark; }
+html, body, #root { height: 100%; }
+body { background: #101114; color: #F4F0E8; font-family: system-ui, sans-serif; margin: 0; -webkit-tap-highlight-color: transparent; }
+.gold-grad { background: linear-gradient(135deg, #E8C97A, #C6A15B 45%, #8F6E2E); }
+.gold-text { background: linear-gradient(135deg, #F0D9A0, #C6A15B); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
