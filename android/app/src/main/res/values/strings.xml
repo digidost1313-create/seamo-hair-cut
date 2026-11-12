@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SEAMO HAIR CUT</string>
+    <string name="title_activity_main">SEAMO HAIR CUT</string>
+    <string name="package_name">com.seamo.haircut</string>
+    <string name="custom_url_scheme">com.seamo.haircut</string>
+</resources>
